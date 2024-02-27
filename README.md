@@ -1,3 +1,4 @@
 * Custom Angular 17 Directives
-* Custom bootstrap pagination Limit
+* Custom pagination(TypeScript) size Limit
 
+![alt text](https://raw.githubusercontent.com/Orlando9991/angular_directives/master/paginationSizeControl.PNG)
